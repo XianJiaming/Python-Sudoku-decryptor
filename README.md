@@ -27,11 +27,11 @@
 	2、每一列的数字不重复
 	3、每一大宫内的数字不重复
 
-<img src="C:\Users\hasee\AppData\Roaming\Typora\typora-user-images\image-20191221234715212.png" alt="image-20191221234715212" style="zoom:50%;" />
+![](img/1.png)
 
 #### 算法效果
 
-<img src="C:\Users\hasee\AppData\Roaming\Typora\typora-user-images\image-20191221235129651.png" alt="image-20191221235129651" style="zoom:67%;" />
+![](img/2.png)
 
 
 
@@ -39,7 +39,7 @@
 
 ### 程序流程
 
-<img src="C:\Users\hasee\AppData\Roaming\Typora\typora-user-images\image-20191221235433734.png" alt="image-20191221235433734" style="zoom:80%;" />
+![](img/3.png)
 
 ### 编程原理与方法
 
@@ -60,9 +60,9 @@
 
 -  判断输入的数独题目是否合理
 
-<img src="C:\Users\hasee\AppData\Roaming\Typora\typora-user-images\image-20191222000839683.png" alt="image-20191222000839683" style="zoom: 67%;" />
+<img src="img/4.png" style="zoom:67%;" />
 
-<img src="C:\Users\hasee\AppData\Roaming\Typora\typora-user-images\image-20191222000854890.png" alt="image-20191222000854890" style="zoom:67%;" />
+<img src="img/5.png" style="zoom:80%;" />
 
 
 
